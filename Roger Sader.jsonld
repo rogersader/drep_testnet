@@ -61,29 +61,20 @@
       "@value": "Roger Sader"
     },
     "motivations": {
-      "@value": "Being an SPO & a delegate alternative to the Constitutional Convention from Canada, motivated me to become a DREP and provide support and clarity to friends, family and ADA holders from community "
+      "@value": "I'm an SPO and would like to provide clarity and research-based educational material to my delegates to participate in Cardano's future."
     },
     "objectives": {
-      "@value": "Provide education, support and clarity to ADA holders"
+      "@value": "Provide clarity and information to delegators to feel safer in participating in Cardano "
     },
     "paymentAddress": {
-      "@value": "addr_test1qqsdqt28fjrgectj30h7zmaadxn9uzrzl8v69qfgmmk3chptm33dacve89dhmk0msya4322xwlreuhf7mes9lep9z47qzenath"
+      "@value": "addr_test1qrrusl2gv0a0esw7us9x29ue5z92fgpdwk2emncr8p3pqzf5vavmdne2pmg5nkrvzr8dv3dtk7xklemvpnnt9wf5npyszjl990"
     },
     "qualifications": {
-      "@value": "- SPO\n- Delegate Alternative to the Constitutional Convention from Canada\n- Tech passionate\n- Educator\n- Dev "
+      "@value": "SPO, Computer Science, Governance Convention Delegate Alt, active in my Toronto and Lebanon communities"
     },
     "references": [
       {
         "@type": "Link",
-        "label": {
-          "@value": "Beehive Staking Pool"
-        },
-        "uri": {
-          "@value": "x.com/beehivepool"
-        }
-      },
-      {
-        "@type": "Identity",
         "label": {
           "@value": "Beehive Staking Pool"
         },
